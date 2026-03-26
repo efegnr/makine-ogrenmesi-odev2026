@@ -1,0 +1,16 @@
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook otomatik kayıt dosyaları
+.ipynb_checkpoints/
+
+# Sanal ortam klasörleri (varsa)
+venv/
+env/
+.venv/
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
